@@ -1,0 +1,1 @@
+# ArgoCD CLI GitHub Action
